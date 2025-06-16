@@ -1,0 +1,1962 @@
+[
+  [
+    "Show my largest transaction in May.",
+    "max_transaction"
+  ],
+  [
+    "How am I doing on my budget last week?",
+    "budget_status"
+  ],
+  [
+    "What was my cash flow today?",
+    "cash_flow"
+  ],
+  [
+    "List refunds received yesterday.",
+    "refunds"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Show total expenses yesterday.",
+    "total_expense"
+  ],
+  [
+    "List tax deductible expenses this month.",
+    "tax_deductions"
+  ],
+  [
+    "Show my smallest transaction last week.",
+    "min_transaction"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "Summarize my investments last week.",
+    "investment_summary"
+  ],
+  [
+    "List refunds received today.",
+    "refunds"
+  ],
+  [
+    "Transportation expenses yesterday?",
+    "transportation_expenses"
+  ],
+  [
+    "How much did I save this month?",
+    "savings_summary"
+  ],
+  [
+    "Any unusual transactions last month?",
+    "unusual_activity"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "Compare my income and expenses in May.",
+    "income_vs_expense"
+  ],
+  [
+    "How much did I spend on healthcare yesterday?",
+    "category_expense"
+  ],
+  [
+    "Any unusual transactions last week?",
+    "unusual_activity"
+  ],
+  [
+    "How am I doing on my budget in April?",
+    "budget_status"
+  ],
+  [
+    "Entertainment spending in 2024?",
+    "entertainment_expenses"
+  ],
+  [
+    "Summarize my investments this week.",
+    "investment_summary"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "What was my cash flow yesterday?",
+    "cash_flow"
+  ],
+  [
+    "Any unusual transactions today?",
+    "unusual_activity"
+  ],
+  [
+    "How many transactions did I have in May?",
+    "transaction_count"
+  ],
+  [
+    "Credit card expenses yesterday.",
+    "credit_card_expense"
+  ],
+  [
+    "How many transactions did I have in April?",
+    "transaction_count"
+  ],
+  [
+    "How many transactions did I have this month?",
+    "transaction_count"
+  ],
+  [
+    "Which category had the highest expense today?",
+    "max_category"
+  ],
+  [
+    "Did I miss any payments this week?",
+    "missed_payments"
+  ],
+  [
+    "Travel related expenses this week?",
+    "travel_expenses"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Which income source earned the most yesterday?",
+    "highest_income_source"
+  ],
+  [
+    "How much did I pay in loans in 2024?",
+    "loan_payments"
+  ],
+  [
+    "List refunds received last week.",
+    "refunds"
+  ],
+  [
+    "List tax deductible expenses last week.",
+    "tax_deductions"
+  ],
+  [
+    "Show my smallest transaction in 2024.",
+    "min_transaction"
+  ],
+  [
+    "Income from bonus today.",
+    "income_by_source"
+  ],
+  [
+    "Show daily expenses for this week.",
+    "daily_summary"
+  ],
+  [
+    "Show daily expenses for last month.",
+    "daily_summary"
+  ],
+  [
+    "Show total expenses in May.",
+    "total_expense"
+  ],
+  [
+    "Show my smallest transaction last month.",
+    "min_transaction"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Which income source earned the most today?",
+    "highest_income_source"
+  ],
+  [
+    "Utility bill payments last month?",
+    "utilities_expenses"
+  ],
+  [
+    "How much budget is left for education?",
+    "budget_remaining"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Show total income this week.",
+    "total_income"
+  ],
+  [
+    "Show my income trend last week.",
+    "income_trend"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "Which income source earned the most yesterday?",
+    "highest_income_source"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "Compare my income and expenses this month.",
+    "income_vs_expense"
+  ],
+  [
+    "Show my income trend in May.",
+    "income_trend"
+  ],
+  [
+    "Food related spending yesterday?",
+    "food_expenses"
+  ],
+  [
+    "Which income source earned the least last week?",
+    "lowest_income_source"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "What was my cash flow in May?",
+    "cash_flow"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "Show my smallest transaction last month.",
+    "min_transaction"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "How much budget is left for groceries?",
+    "budget_remaining"
+  ],
+  [
+    "How many transactions did I have in 2024?",
+    "transaction_count"
+  ],
+  [
+    "What bills are due in April?",
+    "bills_due"
+  ],
+  [
+    "How much did I save yesterday?",
+    "savings_summary"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "How am I doing on my budget yesterday?",
+    "budget_status"
+  ],
+  [
+    "Any unusual transactions this week?",
+    "unusual_activity"
+  ],
+  [
+    "List tax deductible expenses yesterday.",
+    "tax_deductions"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "Charity donations I made in 2024?",
+    "charity_donations"
+  ],
+  [
+    "Show total expenses this month.",
+    "total_expense"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "How am I doing on my budget today?",
+    "budget_status"
+  ],
+  [
+    "Show total expenses today.",
+    "total_expense"
+  ],
+  [
+    "List all utilities transactions in May.",
+    "transactions_by_category"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "How much budget is left for education?",
+    "budget_remaining"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "How many transactions did I have in April?",
+    "transaction_count"
+  ],
+  [
+    "Food related spending this week?",
+    "food_expenses"
+  ],
+  [
+    "How much did I save yesterday?",
+    "savings_summary"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "Any unusual transactions yesterday?",
+    "unusual_activity"
+  ],
+  [
+    "How am I doing on my budget yesterday?",
+    "budget_status"
+  ],
+  [
+    "Show daily expenses for last week.",
+    "daily_summary"
+  ],
+  [
+    "List all utilities transactions this month.",
+    "transactions_by_category"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "List tax deductible expenses this month.",
+    "tax_deductions"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "Show my largest transaction in April.",
+    "max_transaction"
+  ],
+  [
+    "Food related spending in April?",
+    "food_expenses"
+  ],
+  [
+    "How much did I pay in loans last month?",
+    "loan_payments"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Travel related expenses in May?",
+    "travel_expenses"
+  ],
+  [
+    "How much did I spend on shopping last week?",
+    "category_expense"
+  ],
+  [
+    "Travel related expenses today?",
+    "travel_expenses"
+  ],
+  [
+    "Compare my income and expenses in 2024.",
+    "income_vs_expense"
+  ],
+  [
+    "Show daily expenses for in May.",
+    "daily_summary"
+  ],
+  [
+    "How much did I save yesterday?",
+    "savings_summary"
+  ],
+  [
+    "Did I exceed budget for education?",
+    "budget_exceeded"
+  ],
+  [
+    "Show total income last month.",
+    "total_income"
+  ],
+  [
+    "Show expenses at Zomato last week.",
+    "expenses_by_merchant"
+  ],
+  [
+    "Show daily expenses for yesterday.",
+    "daily_summary"
+  ],
+  [
+    "Education expenses yesterday?",
+    "education_expenses"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "Show daily expenses for last month.",
+    "daily_summary"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "Education expenses yesterday?",
+    "education_expenses"
+  ],
+  [
+    "Which income source earned the least in April?",
+    "lowest_income_source"
+  ],
+  [
+    "Which category had the highest expense in May?",
+    "max_category"
+  ],
+  [
+    "How much did I pay in loans in April?",
+    "loan_payments"
+  ],
+  [
+    "Transportation expenses this week?",
+    "transportation_expenses"
+  ],
+  [
+    "What's my net worth last week?",
+    "net_worth"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "Money spent on groceries in 2024?",
+    "groceries_expenses"
+  ],
+  [
+    "How much did I pay in loans in April?",
+    "loan_payments"
+  ],
+  [
+    "List all shopping transactions this month.",
+    "transactions_by_category"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "Show my largest transaction yesterday.",
+    "max_transaction"
+  ],
+  [
+    "Money spent on groceries in April?",
+    "groceries_expenses"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "Show my largest transaction in April.",
+    "max_transaction"
+  ],
+  [
+    "How much did I spend on healthcare last month?",
+    "category_expense"
+  ],
+  [
+    "Medical expenses last month?",
+    "medical_expenses"
+  ],
+  [
+    "How much did I save this month?",
+    "savings_summary"
+  ],
+  [
+    "What bills are due in April?",
+    "bills_due"
+  ],
+  [
+    "Transportation expenses yesterday?",
+    "transportation_expenses"
+  ],
+  [
+    "Any unusual transactions last month?",
+    "unusual_activity"
+  ],
+  [
+    "List refunds received in April.",
+    "refunds"
+  ],
+  [
+    "Which income source earned the least yesterday?",
+    "lowest_income_source"
+  ],
+  [
+    "How much did I spend on food in April?",
+    "category_expense"
+  ],
+  [
+    "Income from rental income today.",
+    "income_by_source"
+  ],
+  [
+    "Entertainment spending in May?",
+    "entertainment_expenses"
+  ],
+  [
+    "Money spent on groceries in 2024?",
+    "groceries_expenses"
+  ],
+  [
+    "Did I miss any payments this week?",
+    "missed_payments"
+  ],
+  [
+    "Transportation expenses in May?",
+    "transportation_expenses"
+  ],
+  [
+    "Summarize my investments today.",
+    "investment_summary"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "List tax deductible expenses last week.",
+    "tax_deductions"
+  ],
+  [
+    "How much budget is left for travel?",
+    "budget_remaining"
+  ],
+  [
+    "Did I miss any payments this month?",
+    "missed_payments"
+  ],
+  [
+    "Did I exceed budget for shopping?",
+    "budget_exceeded"
+  ],
+  [
+    "How am I doing on my budget today?",
+    "budget_status"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "List all shopping transactions this week.",
+    "transactions_by_category"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "How much did I save last month?",
+    "savings_summary"
+  ],
+  [
+    "Did I exceed budget for utilities?",
+    "budget_exceeded"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "What's my net worth yesterday?",
+    "net_worth"
+  ],
+  [
+    "Which category had the highest expense in May?",
+    "max_category"
+  ],
+  [
+    "Show my smallest transaction today.",
+    "min_transaction"
+  ],
+  [
+    "Food related spending this week?",
+    "food_expenses"
+  ],
+  [
+    "Did I exceed budget for groceries?",
+    "budget_exceeded"
+  ],
+  [
+    "How many transactions did I have in April?",
+    "transaction_count"
+  ],
+  [
+    "How am I doing on my budget in 2024?",
+    "budget_status"
+  ],
+  [
+    "Did I miss any payments last week?",
+    "missed_payments"
+  ],
+  [
+    "Show total income this week.",
+    "total_income"
+  ],
+  [
+    "Which income source earned the least in 2024?",
+    "lowest_income_source"
+  ],
+  [
+    "Income from rental income last week.",
+    "income_by_source"
+  ],
+  [
+    "Which income source earned the most in April?",
+    "highest_income_source"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "Credit card expenses today.",
+    "credit_card_expense"
+  ],
+  [
+    "Did I exceed budget for education?",
+    "budget_exceeded"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "List tax deductible expenses this month.",
+    "tax_deductions"
+  ],
+  [
+    "Show my income trend this week.",
+    "income_trend"
+  ],
+  [
+    "How much did I pay in loans this month?",
+    "loan_payments"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "Show daily expenses for this week.",
+    "daily_summary"
+  ],
+  [
+    "Show expenses at Zomato in May.",
+    "expenses_by_merchant"
+  ],
+  [
+    "Show my largest transaction in April.",
+    "max_transaction"
+  ],
+  [
+    "Show total income last month.",
+    "total_income"
+  ],
+  [
+    "What was my cash flow yesterday?",
+    "cash_flow"
+  ],
+  [
+    "Income from rental income today.",
+    "income_by_source"
+  ],
+  [
+    "List tax deductible expenses last month.",
+    "tax_deductions"
+  ],
+  [
+    "Which income source earned the least in 2024?",
+    "lowest_income_source"
+  ],
+  [
+    "Show daily expenses for this week.",
+    "daily_summary"
+  ],
+  [
+    "Medical expenses yesterday?",
+    "medical_expenses"
+  ],
+  [
+    "Education expenses this month?",
+    "education_expenses"
+  ],
+  [
+    "Income from freelancing in April.",
+    "income_by_source"
+  ],
+  [
+    "Any unusual transactions yesterday?",
+    "unusual_activity"
+  ],
+  [
+    "List all entertainment transactions this week.",
+    "transactions_by_category"
+  ],
+  [
+    "Credit card expenses in April.",
+    "credit_card_expense"
+  ],
+  [
+    "Income from salary in April.",
+    "income_by_source"
+  ],
+  [
+    "Show my largest transaction in 2024.",
+    "max_transaction"
+  ],
+  [
+    "Summarize my investments this week.",
+    "investment_summary"
+  ],
+  [
+    "How much did I pay in loans this month?",
+    "loan_payments"
+  ],
+  [
+    "How many transactions did I have in May?",
+    "transaction_count"
+  ],
+  [
+    "Compare my income and expenses this month.",
+    "income_vs_expense"
+  ],
+  [
+    "Compare my income and expenses in April.",
+    "income_vs_expense"
+  ],
+  [
+    "Show total expenses in April.",
+    "total_expense"
+  ],
+  [
+    "Charity donations I made yesterday?",
+    "charity_donations"
+  ],
+  [
+    "List tax deductible expenses yesterday.",
+    "tax_deductions"
+  ],
+  [
+    "Any unusual transactions in 2024?",
+    "unusual_activity"
+  ],
+  [
+    "Charity donations I made this week?",
+    "charity_donations"
+  ],
+  [
+    "Compare my income and expenses today.",
+    "income_vs_expense"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "Utility bill payments yesterday?",
+    "utilities_expenses"
+  ],
+  [
+    "How much did I pay in loans last month?",
+    "loan_payments"
+  ],
+  [
+    "What's my net worth in April?",
+    "net_worth"
+  ],
+  [
+    "Which category had the highest expense in May?",
+    "max_category"
+  ],
+  [
+    "What's my net worth in May?",
+    "net_worth"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "Show my largest transaction this week.",
+    "max_transaction"
+  ],
+  [
+    "What was my cash flow in May?",
+    "cash_flow"
+  ],
+  [
+    "Show total expenses this month.",
+    "total_expense"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "Credit card expenses last month.",
+    "credit_card_expense"
+  ],
+  [
+    "Income from investments this month.",
+    "income_by_source"
+  ],
+  [
+    "List all travel transactions in April.",
+    "transactions_by_category"
+  ],
+  [
+    "Did I miss any payments in April?",
+    "missed_payments"
+  ],
+  [
+    "Charity donations I made this week?",
+    "charity_donations"
+  ],
+  [
+    "What's my net worth this week?",
+    "net_worth"
+  ],
+  [
+    "Medical expenses this week?",
+    "medical_expenses"
+  ],
+  [
+    "Show expenses at Amazon last week.",
+    "expenses_by_merchant"
+  ],
+  [
+    "Show my largest transaction last week.",
+    "max_transaction"
+  ],
+  [
+    "Charity donations I made in 2024?",
+    "charity_donations"
+  ],
+  [
+    "Credit card expenses in May.",
+    "credit_card_expense"
+  ],
+  [
+    "What bills are due this month?",
+    "bills_due"
+  ],
+  [
+    "Summarize my investments yesterday.",
+    "investment_summary"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "How much did I save today?",
+    "savings_summary"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "Credit card expenses today.",
+    "credit_card_expense"
+  ],
+  [
+    "Food related spending in 2024?",
+    "food_expenses"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Travel related expenses yesterday?",
+    "travel_expenses"
+  ],
+  [
+    "Which category had the highest expense yesterday?",
+    "max_category"
+  ],
+  [
+    "Show daily expenses for this week.",
+    "daily_summary"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Show my income trend last month.",
+    "income_trend"
+  ],
+  [
+    "Travel related expenses last week?",
+    "travel_expenses"
+  ],
+  [
+    "What bills are due this week?",
+    "bills_due"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "Credit card expenses this month.",
+    "credit_card_expense"
+  ],
+  [
+    "Charity donations I made last week?",
+    "charity_donations"
+  ],
+  [
+    "Summarize my investments this week.",
+    "investment_summary"
+  ],
+  [
+    "How much did I spend on shopping last week?",
+    "category_expense"
+  ],
+  [
+    "Show expenses at Swiggy last month.",
+    "expenses_by_merchant"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Which income source earned the least last week?",
+    "lowest_income_source"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "How many transactions did I have today?",
+    "transaction_count"
+  ],
+  [
+    "How much did I pay in loans this month?",
+    "loan_payments"
+  ],
+  [
+    "Transportation expenses this month?",
+    "transportation_expenses"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "List refunds received last week.",
+    "refunds"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "Transportation expenses in 2024?",
+    "transportation_expenses"
+  ],
+  [
+    "Which income source earned the most last week?",
+    "highest_income_source"
+  ],
+  [
+    "Which income source earned the most today?",
+    "highest_income_source"
+  ],
+  [
+    "What was my cash flow this month?",
+    "cash_flow"
+  ],
+  [
+    "Did I miss any payments this month?",
+    "missed_payments"
+  ],
+  [
+    "Show total income last month.",
+    "total_income"
+  ],
+  [
+    "Entertainment spending last week?",
+    "entertainment_expenses"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "Income from investments yesterday.",
+    "income_by_source"
+  ],
+  [
+    "Education expenses yesterday?",
+    "education_expenses"
+  ],
+  [
+    "Income from investments in 2024.",
+    "income_by_source"
+  ],
+  [
+    "What bills are due this week?",
+    "bills_due"
+  ],
+  [
+    "What bills are due in April?",
+    "bills_due"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Medical expenses yesterday?",
+    "medical_expenses"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "List all food transactions in May.",
+    "transactions_by_category"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "Which category had the highest expense yesterday?",
+    "max_category"
+  ],
+  [
+    "How much did I spend on travel last month?",
+    "category_expense"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Money spent on groceries yesterday?",
+    "groceries_expenses"
+  ],
+  [
+    "Show my income trend last week.",
+    "income_trend"
+  ],
+  [
+    "Travel related expenses in May?",
+    "travel_expenses"
+  ],
+  [
+    "What bills are due yesterday?",
+    "bills_due"
+  ],
+  [
+    "Summarize my investments in April.",
+    "investment_summary"
+  ],
+  [
+    "How much did I save today?",
+    "savings_summary"
+  ],
+  [
+    "What was my cash flow yesterday?",
+    "cash_flow"
+  ],
+  [
+    "Income from investments today.",
+    "income_by_source"
+  ],
+  [
+    "Show daily expenses for last month.",
+    "daily_summary"
+  ],
+  [
+    "List refunds received in May.",
+    "refunds"
+  ],
+  [
+    "Food related spending last week?",
+    "food_expenses"
+  ],
+  [
+    "Did I exceed budget for shopping?",
+    "budget_exceeded"
+  ],
+  [
+    "Show my income trend this week.",
+    "income_trend"
+  ],
+  [
+    "Show expenses at Swiggy in April.",
+    "expenses_by_merchant"
+  ],
+  [
+    "Entertainment spending this week?",
+    "entertainment_expenses"
+  ],
+  [
+    "How much did I spend on education today?",
+    "category_expense"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "How much budget is left for utilities?",
+    "budget_remaining"
+  ],
+  [
+    "Any unusual transactions in May?",
+    "unusual_activity"
+  ],
+  [
+    "Credit card expenses today.",
+    "credit_card_expense"
+  ],
+  [
+    "Which income source earned the least last week?",
+    "lowest_income_source"
+  ],
+  [
+    "How much did I pay in loans in 2024?",
+    "loan_payments"
+  ],
+  [
+    "Transportation expenses this week?",
+    "transportation_expenses"
+  ],
+  [
+    "Show my income trend in May.",
+    "income_trend"
+  ],
+  [
+    "How many transactions did I have in 2024?",
+    "transaction_count"
+  ],
+  [
+    "Credit card expenses last week.",
+    "credit_card_expense"
+  ],
+  [
+    "Utility bill payments this month?",
+    "utilities_expenses"
+  ],
+  [
+    "Utility bill payments last month?",
+    "utilities_expenses"
+  ],
+  [
+    "Charity donations I made in May?",
+    "charity_donations"
+  ],
+  [
+    "Money spent on groceries in 2024?",
+    "groceries_expenses"
+  ],
+  [
+    "How am I doing on my budget in May?",
+    "budget_status"
+  ],
+  [
+    "Travel related expenses last month?",
+    "travel_expenses"
+  ],
+  [
+    "What's my net worth last month?",
+    "net_worth"
+  ],
+  [
+    "Which category had the highest expense today?",
+    "max_category"
+  ],
+  [
+    "What's my net worth in May?",
+    "net_worth"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "What's my net worth in May?",
+    "net_worth"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Show total expenses today.",
+    "total_expense"
+  ],
+  [
+    "Show my smallest transaction today.",
+    "min_transaction"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "Entertainment spending last month?",
+    "entertainment_expenses"
+  ],
+  [
+    "Food related spending this week?",
+    "food_expenses"
+  ],
+  [
+    "Money spent on groceries this month?",
+    "groceries_expenses"
+  ],
+  [
+    "How much budget is left for food?",
+    "budget_remaining"
+  ],
+  [
+    "Show my smallest transaction yesterday.",
+    "min_transaction"
+  ],
+  [
+    "What bills are due this month?",
+    "bills_due"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "List refunds received this week.",
+    "refunds"
+  ],
+  [
+    "Show total expenses today.",
+    "total_expense"
+  ],
+  [
+    "How am I doing on my budget in 2024?",
+    "budget_status"
+  ],
+  [
+    "Utility bill payments in April?",
+    "utilities_expenses"
+  ],
+  [
+    "Transportation expenses yesterday?",
+    "transportation_expenses"
+  ],
+  [
+    "Show expenses at Amazon yesterday.",
+    "expenses_by_merchant"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "How much did I spend on travel in 2024?",
+    "category_expense"
+  ],
+  [
+    "How am I doing on my budget in May?",
+    "budget_status"
+  ],
+  [
+    "Did I miss any payments in May?",
+    "missed_payments"
+  ],
+  [
+    "Which income source earned the most last week?",
+    "highest_income_source"
+  ],
+  [
+    "Entertainment spending this month?",
+    "entertainment_expenses"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "How much did I pay in loans this week?",
+    "loan_payments"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "How much budget is left for travel?",
+    "budget_remaining"
+  ],
+  [
+    "Compare my income and expenses in 2024.",
+    "income_vs_expense"
+  ],
+  [
+    "Credit card expenses in 2024.",
+    "credit_card_expense"
+  ],
+  [
+    "Food related spending in April?",
+    "food_expenses"
+  ],
+  [
+    "Summarize my investments this month.",
+    "investment_summary"
+  ],
+  [
+    "Utility bill payments last month?",
+    "utilities_expenses"
+  ],
+  [
+    "Medical expenses this month?",
+    "medical_expenses"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "How much budget is left for food?",
+    "budget_remaining"
+  ],
+  [
+    "List tax deductible expenses last week.",
+    "tax_deductions"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "Money spent on groceries last week?",
+    "groceries_expenses"
+  ],
+  [
+    "Medical expenses in 2024?",
+    "medical_expenses"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "Which income source earned the least last week?",
+    "lowest_income_source"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "Medical expenses yesterday?",
+    "medical_expenses"
+  ],
+  [
+    "Charity donations I made yesterday?",
+    "charity_donations"
+  ],
+  [
+    "Which income source earned the most this week?",
+    "highest_income_source"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "Food related spending in May?",
+    "food_expenses"
+  ],
+  [
+    "Travel related expenses today?",
+    "travel_expenses"
+  ],
+  [
+    "Summarize my investments in April.",
+    "investment_summary"
+  ],
+  [
+    "What was my cash flow in 2024?",
+    "cash_flow"
+  ],
+  [
+    "Which category had the highest expense last week?",
+    "max_category"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "Compare my income and expenses in 2024.",
+    "income_vs_expense"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "Did I exceed budget for food?",
+    "budget_exceeded"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "Did I exceed budget for travel?",
+    "budget_exceeded"
+  ],
+  [
+    "Compare my income and expenses in May.",
+    "income_vs_expense"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Entertainment spending last week?",
+    "entertainment_expenses"
+  ],
+  [
+    "Show total income yesterday.",
+    "total_income"
+  ],
+  [
+    "Travel related expenses last month?",
+    "travel_expenses"
+  ],
+  [
+    "Show total income in April.",
+    "total_income"
+  ],
+  [
+    "Show my largest transaction today.",
+    "max_transaction"
+  ],
+  [
+    "List refunds received yesterday.",
+    "refunds"
+  ],
+  [
+    "Show total income last week.",
+    "total_income"
+  ],
+  [
+    "Show my smallest transaction this month.",
+    "min_transaction"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "Which income source earned the most in May?",
+    "highest_income_source"
+  ],
+  [
+    "Which category had the highest expense in May?",
+    "max_category"
+  ],
+  [
+    "Show expenses at Flipkart today.",
+    "expenses_by_merchant"
+  ],
+  [
+    "Show my largest transaction last month.",
+    "max_transaction"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "Transportation expenses in April?",
+    "transportation_expenses"
+  ],
+  [
+    "How much did I spend on shopping in 2024?",
+    "category_expense"
+  ],
+  [
+    "Charity donations I made last month?",
+    "charity_donations"
+  ],
+  [
+    "Which category had the highest expense in 2024?",
+    "max_category"
+  ],
+  [
+    "Transportation expenses in April?",
+    "transportation_expenses"
+  ],
+  [
+    "Any unusual transactions in May?",
+    "unusual_activity"
+  ],
+  [
+    "Travel related expenses in April?",
+    "travel_expenses"
+  ],
+  [
+    "Show total expenses this month.",
+    "total_expense"
+  ],
+  [
+    "Did I miss any payments yesterday?",
+    "missed_payments"
+  ],
+  [
+    "List all groceries transactions yesterday.",
+    "transactions_by_category"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "Entertainment spending in April?",
+    "entertainment_expenses"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "Education expenses this month?",
+    "education_expenses"
+  ],
+  [
+    "Show expenses at Amazon in May.",
+    "expenses_by_merchant"
+  ],
+  [
+    "How much budget is left for entertainment?",
+    "budget_remaining"
+  ],
+  [
+    "Education expenses yesterday?",
+    "education_expenses"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "What subscriptions do I have?",
+    "subscription_summary"
+  ],
+  [
+    "Utility bill payments in April?",
+    "utilities_expenses"
+  ],
+  [
+    "What was my cash flow in 2024?",
+    "cash_flow"
+  ],
+  [
+    "Entertainment spending in 2024?",
+    "entertainment_expenses"
+  ],
+  [
+    "Medical expenses this month?",
+    "medical_expenses"
+  ],
+  [
+    "Show my smallest transaction this month.",
+    "min_transaction"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "Show expenses at Flipkart this month.",
+    "expenses_by_merchant"
+  ],
+  [
+    "Did I exceed budget for food?",
+    "budget_exceeded"
+  ],
+  [
+    "What bills are due in May?",
+    "bills_due"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "Summarize my investments in 2024.",
+    "investment_summary"
+  ],
+  [
+    "Show total income today.",
+    "total_income"
+  ],
+  [
+    "Utility bill payments in May?",
+    "utilities_expenses"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "Did I miss any payments last week?",
+    "missed_payments"
+  ],
+  [
+    "List refunds received in 2024.",
+    "refunds"
+  ],
+  [
+    "List refunds received in May.",
+    "refunds"
+  ],
+  [
+    "What do I spend money on the most?",
+    "frequent_expense"
+  ],
+  [
+    "Money spent on groceries this week?",
+    "groceries_expenses"
+  ],
+  [
+    "What bills are due last week?",
+    "bills_due"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "List all entertainment transactions last week.",
+    "transactions_by_category"
+  ],
+  [
+    "Did I miss any payments in May?",
+    "missed_payments"
+  ],
+  [
+    "Show my income trend this week.",
+    "income_trend"
+  ],
+  [
+    "Did I exceed budget for groceries?",
+    "budget_exceeded"
+  ],
+  [
+    "What are my yearly expenses?",
+    "yearly_summary"
+  ],
+  [
+    "Show my income trend last month.",
+    "income_trend"
+  ],
+  [
+    "Utility bill payments this week?",
+    "utilities_expenses"
+  ],
+  [
+    "Education expenses in April?",
+    "education_expenses"
+  ],
+  [
+    "Education expenses last week?",
+    "education_expenses"
+  ],
+  [
+    "How much budget is left for shopping?",
+    "budget_remaining"
+  ],
+  [
+    "Where does most of my income come from?",
+    "frequent_income_source"
+  ],
+  [
+    "Show total expenses this week.",
+    "total_expense"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Which income source earned the least last month?",
+    "lowest_income_source"
+  ],
+  [
+    "Medical expenses yesterday?",
+    "medical_expenses"
+  ],
+  [
+    "Which income source earned the least in May?",
+    "lowest_income_source"
+  ],
+  [
+    "How much did I spend on shopping last month?",
+    "category_expense"
+  ],
+  [
+    "List all travel transactions in May.",
+    "transactions_by_category"
+  ],
+  [
+    "Food related spending yesterday?",
+    "food_expenses"
+  ],
+  [
+    "How much did I save last month?",
+    "savings_summary"
+  ],
+  [
+    "Which income source earned the most in 2024?",
+    "highest_income_source"
+  ],
+  [
+    "Entertainment spending this week?",
+    "entertainment_expenses"
+  ],
+  [
+    "Show total income last week.",
+    "total_income"
+  ],
+  [
+    "Summarize my spending this month.",
+    "monthly_summary"
+  ],
+  [
+    "Summarize my spending this week.",
+    "weekly_summary"
+  ],
+  [
+    "What was my cash flow in May?",
+    "cash_flow"
+  ],
+  [
+    "What's my net worth last week?",
+    "net_worth"
+  ],
+  [
+    "Which subscriptions were cancelled?",
+    "cancelled_subscriptions"
+  ],
+  [
+    "Education expenses last month?",
+    "education_expenses"
+  ],
+  [
+    "What's my net worth yesterday?",
+    "net_worth"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "Education expenses in April?",
+    "education_expenses"
+  ],
+  [
+    "Money spent on groceries last month?",
+    "groceries_expenses"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "What is my current bank balance?",
+    "bank_balance"
+  ],
+  [
+    "Show my expense trend over the last few months.",
+    "expense_trend"
+  ],
+  [
+    "Show expenses at Zomato in May.",
+    "expenses_by_merchant"
+  ],
+  [
+    "How many transactions did I have today?",
+    "transaction_count"
+  ],
+  [
+    "Compare my income and expenses in 2024.",
+    "income_vs_expense"
+  ],
+  [
+    "Medical expenses this month?",
+    "medical_expenses"
+  ],
+  [
+    "Utility bill payments in May?",
+    "utilities_expenses"
+  ],
+  [
+    "Show my income trend in May.",
+    "income_trend"
+  ],
+  [
+    "Charity donations I made today?",
+    "charity_donations"
+  ],
+  [
+    "List tax deductible expenses last week.",
+    "tax_deductions"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "How much did I save this month?",
+    "savings_summary"
+  ],
+  [
+    "What upcoming bills do I have?",
+    "upcoming_bills"
+  ],
+  [
+    "List my active subscriptions.",
+    "active_subscriptions"
+  ],
+  [
+    "Money spent on groceries last month?",
+    "groceries_expenses"
+  ],
+  [
+    "Show my smallest transaction this month.",
+    "min_transaction"
+  ]
+]

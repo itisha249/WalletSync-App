@@ -1,0 +1,10 @@
+thefuzz
+spacy 
+dateparser 
+rapidfuzz
+transformers
+datasets
+scikit-learn
+pandas
+torch
+tf-keras
