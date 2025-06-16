@@ -20,12 +20,12 @@ def handle_query(query):
 
 if __name__ == "__main__":
     while True:
-        q = input("\n💬 Enter your financial query (or 'exit'): ")
+        q = input("\n Enter your financial query (or 'exit'): ")
         if q.lower() == "exit":
             break
         parsed, url = handle_query(q)
-        print("\n📦 Parsed Output:", parsed)
-        print("🔗 API URL:", url)
+        print("\n Parsed Output:", parsed)
+        print(" API URL:", url)
 
 # “What was my income vs expense last month?”
 # “Which category had the highest spending in May?”
