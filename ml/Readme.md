@@ -43,7 +43,7 @@ Features
 
 ## Installation
 
-git clone https://github.com/yourusername/walletsync-parser.git
+git clone https://github.com/itisha249/WalletSync-App.git
 cd walletsync-parser
 pip install -r requirements.txt
 Also run:
@@ -77,6 +77,5 @@ walletsync-parser/
 
 
 Itisha Patel
-AI/NLP Engineer in Progress 👩‍💻
-Email: itishahmt@gmal.com
+AI/NLP Engineer in Progress 
 
